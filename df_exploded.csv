@@ -1,0 +1,187 @@
+,index,Unnamed: 0.1,Unnamed: 0,gender,age,university,degree_level,degree_major,academic_year,cgpa,residential_status,campus_discrimination,sports_engagement,average_sleep,study_satisfaction,academic_wkload,academic_pressure,financial_concerns,social_relationships,depression,anxiety,isolation,future_insecurity,stress_relief_activities,mental_ill,relationship_group
+0,0,0,0,Male,20,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,5,4,5,4,3,2,1,1,2,['Religious Activities'],1.3333333333333333,socially_active
+1,0,0,0,Male,20,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,5,4,5,4,3,2,1,1,2,['Social Connections'],1.3333333333333333,socially_active
+2,0,0,0,Male,20,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,5,4,5,4,3,2,1,1,2,['Online Entertainment'],1.3333333333333333,socially_active
+3,1,1,1,Male,20,UET,Postgraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,5,4,4,1,3,3,3,3,4,['Online Entertainment'],3.0,socially_active
+4,2,2,2,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,2-4 hrs,5,5,5,3,4,2,3,3,1,['Religious Activities'],2.6666666666666665,socially_active
+5,2,2,2,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,2-4 hrs,5,5,5,3,4,2,3,3,1,['Sports and'],2.6666666666666665,socially_active
+6,2,2,2,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,2-4 hrs,5,5,5,3,4,2,3,3,1,['Online Entertainment'],2.6666666666666665,socially_active
+7,3,3,3,Male,20,UET,Undergraduate,Computer Science,3rd year,2.5-3.0,On-Campus,No,No Sports,4-6 hrs,3,5,4,4,1,5,5,5,3,['Online Entertainment'],5.0,socially_isoled
+8,4,4,4,Female,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,3,5,5,2,3,5,5,4,4,['Online Entertainment'],4.666666666666667,socially_active
+9,5,5,5,Female,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,5,5,5,5,['Religious Activities'],5.0,socially_active
+10,5,5,5,Female,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,5,5,5,5,['Social Connections'],5.0,socially_active
+11,5,5,5,Female,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,5,5,5,5,['Online Entertainment'],5.0,socially_active
+12,6,6,6,Male,26,PU,Postgraduate,Data Science,1st year,2.5-3.0,On-Campus,Yes,1-3 times,7-8 hrs,4,4,4,5,2,5,4,4,5,['Social Connections'],4.333333333333333,socially_isoled
+13,6,6,6,Male,26,PU,Postgraduate,Data Science,1st year,2.5-3.0,On-Campus,Yes,1-3 times,7-8 hrs,4,4,4,5,2,5,4,4,5,['Online Entertainment'],4.333333333333333,socially_isoled
+14,7,7,7,Male,22,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,3,4,4,5,4,3,2,2,4,['Religious Activities'],2.3333333333333335,socially_active
+15,7,7,7,Male,22,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,3,4,4,5,4,3,2,2,4,['Social Connections'],2.3333333333333335,socially_active
+16,7,7,7,Male,22,PU,Undergraduate,Data Science,2nd year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,3,4,4,5,4,3,2,2,4,['Online Entertainment'],2.3333333333333335,socially_active
+17,8,8,8,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,3,4,2,3,4,3,5,['Religious Activities'],3.3333333333333335,socially_isoled
+18,8,8,8,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,3,4,2,3,4,3,5,['Social Connections'],3.3333333333333335,socially_isoled
+19,8,8,8,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,3,4,2,3,4,3,5,['Online Entertainment'],3.3333333333333335,socially_isoled
+20,8,8,8,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,3,4,2,3,4,3,5,['Outdoor Activities'],3.3333333333333335,socially_isoled
+21,9,9,9,Male,23,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,3,5,3,5,1,5,5,5,5,['Sports and'],5.0,socially_isoled
+22,10,10,10,Male,20,COMSATS,Undergraduate,Computer Science,2nd year,3.0-3.5,On-Campus,No,No Sports,4-6 hrs,5,4,4,1,4,3,3,1,3,['Religious Activities'],2.3333333333333335,socially_active
+23,10,10,10,Male,20,COMSATS,Undergraduate,Computer Science,2nd year,3.0-3.5,On-Campus,No,No Sports,4-6 hrs,5,4,4,1,4,3,3,1,3,['Online Entertainment'],2.3333333333333335,socially_active
+24,11,11,11,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,4,5,4,4,4,2,3,1,2,['Religious Activities'],2.0,socially_active
+25,11,11,11,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,4,5,4,4,4,2,3,1,2,['Sports and'],2.0,socially_active
+26,11,11,11,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,4,5,4,4,4,2,3,1,2,['Social Connections'],2.0,socially_active
+27,11,11,11,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,4,5,4,4,4,2,3,1,2,['Online Entertainment'],2.0,socially_active
+28,11,11,11,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,4,5,4,4,4,2,3,1,2,['Outdoor Activities'],2.0,socially_active
+29,12,12,12,Male,21,COMSATS,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,5,3,5,5,1,4,4,4,2,[],4.0,socially_isoled
+30,13,13,13,Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,3,3,4,5,3,5,4,5,1,['Religious Activities'],4.666666666666667,socially_active
+31,14,14,14,Female,20,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,4-6 hrs,3,3,3,3,2,4,3,5,3,['Religious Activities'],4.0,socially_isoled
+32,15,15,15,Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,Yes,No Sports,7-8 hrs,5,3,3,4,3,1,1,1,3,['Religious Activities'],1.0,socially_active
+33,15,15,15,Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,Yes,No Sports,7-8 hrs,5,3,3,4,3,1,1,1,3,['Social Connections'],1.0,socially_active
+34,15,15,15,Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,Yes,No Sports,7-8 hrs,5,3,3,4,3,1,1,1,3,['Online Entertainment'],1.0,socially_active
+35,16,16,16,Female,20,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,2-4 hrs,5,4,4,3,1,3,2,3,1,['Social Connections'],2.6666666666666665,socially_isoled
+36,17,17,17,Male,19,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,No Sports,7-8 hrs,5,3,5,3,3,2,2,3,1,['Religious Activities'],2.3333333333333335,socially_active
+37,18,18,18,Female,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,3,3,2,4,4,3,2,['Religious Activities'],3.6666666666666665,socially_isoled
+38,18,18,18,Female,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,3,3,2,4,4,3,2,['Creative Outlets'],3.6666666666666665,socially_isoled
+39,18,18,18,Female,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,3,3,2,4,4,3,2,['Social Connections'],3.6666666666666665,socially_isoled
+40,19,19,19,Male,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,5,4,4,5,3,5,5,4,3,['Sports and'],4.666666666666667,socially_active
+41,20,20,20,Female,20,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,1-3 times,7-8 hrs,5,4,4,2,3,1,2,2,2,['Social Connections'],1.6666666666666667,socially_active
+42,21,21,21,Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,4,5,5,2,2,4,4,5,5,['Religious Activities'],4.333333333333333,socially_isoled
+43,21,21,21,Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,4,5,5,2,2,4,4,5,5,['Social Connections'],4.333333333333333,socially_isoled
+44,22,22,22,Male,20,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,3,5,5,3,3,4,4,3,4,['Outdoor Activities'],3.6666666666666665,socially_active
+45,23,23,23,Male,20,UET,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,5,5,4,5,3,5,5,5,3,['Religious Activities'],5.0,socially_active
+46,23,23,23,Male,20,UET,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,5,5,4,5,3,5,5,5,3,['Online Entertainment'],5.0,socially_active
+47,24,24,24,Female,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,5,4,4,1,3,3,4,3,3,['Religious Activities'],3.3333333333333335,socially_active
+48,24,24,24,Female,19,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,1-3 times,4-6 hrs,5,4,4,1,3,3,4,3,3,['Creative Outlets'],3.3333333333333335,socially_active
+49,25,25,25,Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,7+ times,4-6 hrs,5,5,3,5,5,4,1,3,2,['Religious Activities'],2.6666666666666665,socially_active
+50,25,25,25,Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,7+ times,4-6 hrs,5,5,3,5,5,4,1,3,2,['Sports and'],2.6666666666666665,socially_active
+51,25,25,25,Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,7+ times,4-6 hrs,5,5,3,5,5,4,1,3,2,['Social Connections'],2.6666666666666665,socially_active
+52,25,25,25,Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,7+ times,4-6 hrs,5,5,3,5,5,4,1,3,2,['Online Entertainment'],2.6666666666666665,socially_active
+53,25,25,25,Male,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,7+ times,4-6 hrs,5,5,3,5,5,4,1,3,2,['Outdoor Activities'],2.6666666666666665,socially_active
+54,26,26,26,Male,23,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,Yes,1-3 times,7-8 hrs,3,3,4,1,4,3,3,2,3,['Religious Activities'],2.6666666666666665,socially_active
+55,26,26,26,Male,23,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,Yes,1-3 times,7-8 hrs,3,3,4,1,4,3,3,2,3,['Online Entertainment'],2.6666666666666665,socially_active
+56,26,26,26,Male,23,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,Yes,1-3 times,7-8 hrs,3,3,4,1,4,3,3,2,3,['Outdoor Activities'],2.6666666666666665,socially_active
+57,27,27,27,Male,20,PU,Undergraduate,Computer Science,1st year,1.5-2.0,Off-Campus,Yes,7+ times,2-4 hrs,1,4,5,5,1,5,5,5,5,['Online Entertainment'],5.0,socially_isoled
+58,28,28,28,Male,18,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,4-6 times,4-6 hrs,4,3,4,4,4,3,4,4,2,['Sports and'],3.6666666666666665,socially_active
+59,28,28,28,Male,18,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,4-6 times,4-6 hrs,4,3,4,4,4,3,4,4,2,['Creative Outlets'],3.6666666666666665,socially_active
+60,28,28,28,Male,18,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,4-6 times,4-6 hrs,4,3,4,4,4,3,4,4,2,['Online Entertainment'],3.6666666666666665,socially_active
+61,28,28,28,Male,18,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,4-6 times,4-6 hrs,4,3,4,4,4,3,4,4,2,['Outdoor Activities'],3.6666666666666665,socially_active
+62,29,29,29,Male,20,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,4-6 times,7-8 hrs,5,5,5,3,5,5,3,3,2,['Religious Activities'],3.6666666666666665,socially_active
+63,29,29,29,Male,20,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,4-6 times,7-8 hrs,5,5,5,3,5,5,3,3,2,['Outdoor Activities'],3.6666666666666665,socially_active
+64,30,30,30,Male,18,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,No Sports,7-8 hrs,5,3,1,1,3,1,2,2,1,[],1.6666666666666667,socially_active
+65,31,31,31,Male,19,PU,Undergraduate,Data Science,1st year,2.0-2.5,On-Campus,No,No Sports,4-6 hrs,2,4,1,5,3,3,3,3,2,['Creative Outlets'],3.0,socially_active
+66,31,31,31,Male,19,PU,Undergraduate,Data Science,1st year,2.0-2.5,On-Campus,No,No Sports,4-6 hrs,2,4,1,5,3,3,3,3,2,['Social Connections'],3.0,socially_active
+67,31,31,31,Male,19,PU,Undergraduate,Data Science,1st year,2.0-2.5,On-Campus,No,No Sports,4-6 hrs,2,4,1,5,3,3,3,3,2,['Online Entertainment'],3.0,socially_active
+68,31,31,31,Male,19,PU,Undergraduate,Data Science,1st year,2.0-2.5,On-Campus,No,No Sports,4-6 hrs,2,4,1,5,3,3,3,3,2,['Outdoor Activities'],3.0,socially_active
+69,32,32,32,Male,18,PU,Undergraduate,Data Science,1st year,1.5-2.0,On-Campus,No,No Sports,4-6 hrs,5,4,5,2,3,4,3,4,4,['Religious Activities'],3.6666666666666665,socially_active
+70,33,33,33,Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,On-Campus,No,No Sports,7-8 hrs,5,4,4,3,2,4,2,3,1,['Creative Outlets'],3.0,socially_isoled
+71,34,34,34,Female,17,PU,Undergraduate,Computer Science,1st year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,5,5,5,1,5,5,5,3,[],5.0,socially_isoled
+72,35,35,35,Male,18,PU,Undergraduate,Computer Science,1st year,3.5-4.0,Off-Campus,No,7+ times,4-6 hrs,3,3,4,5,2,4,3,4,5,['Religious Activities'],3.6666666666666665,socially_isoled
+73,35,35,35,Male,18,PU,Undergraduate,Computer Science,1st year,3.5-4.0,Off-Campus,No,7+ times,4-6 hrs,3,3,4,5,2,4,3,4,5,['Sports and'],3.6666666666666665,socially_isoled
+74,35,35,35,Male,18,PU,Undergraduate,Computer Science,1st year,3.5-4.0,Off-Campus,No,7+ times,4-6 hrs,3,3,4,5,2,4,3,4,5,['Social Connections'],3.6666666666666665,socially_isoled
+75,36,36,36,Female,17,PU,Undergraduate,Computer Science,1st year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,4,4,5,3,4,4,5,2,['Religious Activities'],4.333333333333333,socially_active
+76,37,37,37,Female,19,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,4-6 times,7-8 hrs,5,3,2,2,4,1,2,1,1,['Religious Activities'],1.3333333333333333,socially_active
+77,38,38,38,Female,18,PU,Undergraduate,Data Science,1st year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,1,4,5,5,2,5,5,5,5,['Creative Outlets'],5.0,socially_isoled
+78,39,39,39,Female,19,PU,Undergraduate,Data Science,2nd year,2.5-3.0,On-Campus,No,No Sports,2-4 hrs,2,4,4,1,2,3,3,4,3,['Religious Activities'],3.3333333333333335,socially_isoled
+79,40,40,40,Female,19,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,4,4,1,1,1,1,4,['Religious Activities'],1.0,socially_isoled
+80,40,40,40,Female,19,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,4,4,1,1,1,1,4,['Social Connections'],1.0,socially_isoled
+81,40,40,40,Female,19,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,4,4,4,1,1,1,1,4,['Online Entertainment'],1.0,socially_isoled
+82,41,41,41,Male,18,PU,Undergraduate,Data Science,1st year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,2,4,4,5,1,5,4,5,5,['Online Entertainment'],4.666666666666667,socially_isoled
+83,42,42,42,Male,18,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,4,3,3,2,3,3,3,3,4,['Online Entertainment'],3.0,socially_active
+84,43,43,43,Male,18,PU,Undergraduate,Computer Science,1st year,3.5-4.0,Off-Campus,Yes,4-6 times,7-8 hrs,4,2,2,1,3,1,1,2,3,['Online Entertainment'],1.3333333333333333,socially_active
+85,44,44,44,Male,19,NUST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,1-3 times,7-8 hrs,4,4,4,3,4,2,2,2,4,['Religious Activities'],2.0,socially_active
+86,44,44,44,Male,19,NUST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,1-3 times,7-8 hrs,4,4,4,3,4,2,2,2,4,['Online Entertainment'],2.0,socially_active
+87,44,44,44,Male,19,NUST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,1-3 times,7-8 hrs,4,4,4,3,4,2,2,2,4,['Outdoor Activities'],2.0,socially_active
+88,45,45,45,Male,18,PU,Undergraduate,Data Science,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,4,4,4,4,5,3,3,1,3,['Sports and'],2.3333333333333335,socially_active
+89,46,46,46,Male,21,PU,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,5,4,3,5,5,5,5,['Religious Activities'],5.0,socially_active
+90,46,46,46,Male,21,PU,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,5,4,3,5,5,5,5,['Sports and'],5.0,socially_active
+91,46,46,46,Male,21,PU,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,5,4,3,5,5,5,5,['Creative Outlets'],5.0,socially_active
+92,46,46,46,Male,21,PU,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,5,4,3,5,5,5,5,['Online Entertainment'],5.0,socially_active
+93,47,47,47,Male,20,PU,Undergraduate,Data Science,3rd year,3.5-4.0,Off-Campus,Yes,No Sports,7-8 hrs,4,4,3,1,1,3,3,5,2,['Online Entertainment'],3.6666666666666665,socially_isoled
+94,48,48,48,Male,19,PU,Undergraduate,Computer Science,1st year,2.0-2.5,On-Campus,No,1-3 times,4-6 hrs,5,4,5,5,1,3,4,5,1,['Sports and'],4.0,socially_isoled
+95,48,48,48,Male,19,PU,Undergraduate,Computer Science,1st year,2.0-2.5,On-Campus,No,1-3 times,4-6 hrs,5,4,5,5,1,3,4,5,1,['Creative Outlets'],4.0,socially_isoled
+96,48,48,48,Male,19,PU,Undergraduate,Computer Science,1st year,2.0-2.5,On-Campus,No,1-3 times,4-6 hrs,5,4,5,5,1,3,4,5,1,['Social Connections'],4.0,socially_isoled
+97,48,48,48,Male,19,PU,Undergraduate,Computer Science,1st year,2.0-2.5,On-Campus,No,1-3 times,4-6 hrs,5,4,5,5,1,3,4,5,1,['Outdoor Activities'],4.0,socially_isoled
+98,48,48,48,Male,19,PU,Undergraduate,Computer Science,1st year,2.0-2.5,On-Campus,No,1-3 times,4-6 hrs,5,4,5,5,1,3,4,5,1,[],4.0,socially_isoled
+99,49,49,49,Male,20,PU,Undergraduate,Data Science,2nd year,3.0-3.5,On-Campus,No,No Sports,4-6 hrs,5,3,1,5,3,1,1,2,1,['Religious Activities'],1.3333333333333333,socially_active
+100,50,50,50,Male,21,PU,Undergraduate,Data Science,2nd year,3.5-4.0,On-Campus,No,1-3 times,4-6 hrs,5,4,3,4,5,2,2,2,3,['Religious Activities'],2.0,socially_active
+101,50,50,50,Male,21,PU,Undergraduate,Data Science,2nd year,3.5-4.0,On-Campus,No,1-3 times,4-6 hrs,5,4,3,4,5,2,2,2,3,['Social Connections'],2.0,socially_active
+102,50,50,50,Male,21,PU,Undergraduate,Data Science,2nd year,3.5-4.0,On-Campus,No,1-3 times,4-6 hrs,5,4,3,4,5,2,2,2,3,['Online Entertainment'],2.0,socially_active
+103,50,50,50,Male,21,PU,Undergraduate,Data Science,2nd year,3.5-4.0,On-Campus,No,1-3 times,4-6 hrs,5,4,3,4,5,2,2,2,3,[],2.0,socially_active
+104,51,51,51,Male,17,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,3,5,5,1,3,4,4,4,5,['Outdoor Activities'],4.0,socially_active
+105,52,52,52,Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,5,3,3,3,1,['Religious Activities'],3.0,socially_active
+106,52,52,52,Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,5,3,3,3,1,['Sports and'],3.0,socially_active
+107,52,52,52,Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,5,3,3,3,1,['Social Connections'],3.0,socially_active
+108,53,53,53,Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,1-3 times,4-6 hrs,5,5,3,2,1,2,4,5,2,['Social Connections'],3.6666666666666665,socially_isoled
+109,53,53,53,Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,1-3 times,4-6 hrs,5,5,3,2,1,2,4,5,2,['Online Entertainment'],3.6666666666666665,socially_isoled
+110,53,53,53,Male,18,PU,Undergraduate,Information Technology,1st year,0.0-0.0,Off-Campus,No,1-3 times,4-6 hrs,5,5,3,2,1,2,4,5,2,[],3.6666666666666665,socially_isoled
+111,54,54,54,Male,22,VU,Undergraduate,Software Engineering,4th year,3.0-3.5,Off-Campus,No,1-3 times,7-8 hrs,4,4,3,5,1,3,3,4,1,['Religious Activities'],3.3333333333333335,socially_isoled
+112,54,54,54,Male,22,VU,Undergraduate,Software Engineering,4th year,3.0-3.5,Off-Campus,No,1-3 times,7-8 hrs,4,4,3,5,1,3,3,4,1,['Sports and'],3.3333333333333335,socially_isoled
+113,54,54,54,Male,22,VU,Undergraduate,Software Engineering,4th year,3.0-3.5,Off-Campus,No,1-3 times,7-8 hrs,4,4,3,5,1,3,3,4,1,['Outdoor Activities'],3.3333333333333335,socially_isoled
+114,55,55,55,Male,21,PU,Undergraduate,Data Science,2nd year,2.5-3.0,On-Campus,Yes,4-6 times,4-6 hrs,3,4,5,3,4,1,1,1,1,['Religious Activities'],1.0,socially_active
+115,55,55,55,Male,21,PU,Undergraduate,Data Science,2nd year,2.5-3.0,On-Campus,Yes,4-6 times,4-6 hrs,3,4,5,3,4,1,1,1,1,['Social Connections'],1.0,socially_active
+116,56,56,56,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,Yes,4-6 times,7-8 hrs,4,3,5,3,3,4,4,4,4,['Outdoor Activities'],4.0,socially_active
+117,57,57,57,Male,20,PU,Undergraduate,Data Science,1st year,0.0-0.0,On-Campus,No,No Sports,4-6 hrs,4,4,4,5,2,3,2,4,2,[],3.0,socially_isoled
+118,58,58,58,Male,20,PU,Undergraduate,Data Science,2nd year,3.5-4.0,Off-Campus,No,4-6 times,7-8 hrs,5,2,2,1,3,1,1,1,1,['Religious Activities'],1.0,socially_active
+119,58,58,58,Male,20,PU,Undergraduate,Data Science,2nd year,3.5-4.0,Off-Campus,No,4-6 times,7-8 hrs,5,2,2,1,3,1,1,1,1,['Social Connections'],1.0,socially_active
+120,59,59,59,Male,21,FAST,Undergraduate,Data Science,3rd year,2.0-2.5,Off-Campus,No,1-3 times,7-8 hrs,3,5,4,1,3,2,2,4,4,['Religious Activities'],2.6666666666666665,socially_active
+121,59,59,59,Male,21,FAST,Undergraduate,Data Science,3rd year,2.0-2.5,Off-Campus,No,1-3 times,7-8 hrs,3,5,4,1,3,2,2,4,4,['Sports and'],2.6666666666666665,socially_active
+122,60,60,60,Male,21,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,4-6 times,7-8 hrs,4,4,4,2,4,2,2,2,3,['Outdoor Activities'],2.0,socially_active
+123,61,61,61,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,3,4,3,4,1,1,2,1,3,['Religious Activities'],1.3333333333333333,socially_isoled
+124,61,61,61,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,3,4,3,4,1,1,2,1,3,['Social Connections'],1.3333333333333333,socially_isoled
+125,61,61,61,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,1-3 times,4-6 hrs,3,4,3,4,1,1,2,1,3,['Online Entertainment'],1.3333333333333333,socially_isoled
+126,62,62,62,Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,2,4,4,4,5,['Religious Activities'],4.0,socially_isoled
+127,62,62,62,Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,2,4,4,4,5,['Sports and'],4.0,socially_isoled
+128,62,62,62,Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,2,4,4,4,5,['Social Connections'],4.0,socially_isoled
+129,62,62,62,Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,2,4,4,4,5,['Online Entertainment'],4.0,socially_isoled
+130,62,62,62,Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,2,4,4,4,5,['Outdoor Activities'],4.0,socially_isoled
+131,62,62,62,Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,4,3,2,4,4,4,5,[],4.0,socially_isoled
+132,63,63,63,Female,19,PU,Undergraduate,Computer Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,4,3,3,3,3,4,4,3,2,['Religious Activities'],3.6666666666666665,socially_active
+133,63,63,63,Female,19,PU,Undergraduate,Computer Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,4,3,3,3,3,4,4,3,2,['Social Connections'],3.6666666666666665,socially_active
+134,63,63,63,Female,19,PU,Undergraduate,Computer Science,2nd year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,4,3,3,3,3,4,4,3,2,[],3.6666666666666665,socially_active
+135,64,64,64,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,4,5,3,5,5,5,4,['Religious Activities'],5.0,socially_active
+136,64,64,64,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,4,5,3,5,5,5,4,['Sports and'],5.0,socially_active
+137,64,64,64,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,4,5,3,5,5,5,4,['Creative Outlets'],5.0,socially_active
+138,64,64,64,Male,20,COMSATS,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,1-3 times,4-6 hrs,3,4,4,5,3,5,5,5,4,['Online Entertainment'],5.0,socially_active
+139,65,65,65,Male,20,UMT,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,7-8 hrs,3,3,4,5,3,4,4,4,4,['Social Connections'],4.0,socially_active
+140,66,66,66,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,5,5,1,5,3,4,1,1,['Religious Activities'],2.6666666666666665,socially_active
+141,66,66,66,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,5,5,1,5,3,4,1,1,['Sports and'],2.6666666666666665,socially_active
+142,66,66,66,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,5,5,1,5,3,4,1,1,['Social Connections'],2.6666666666666665,socially_active
+143,66,66,66,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,1-3 times,4-6 hrs,4,5,5,1,5,3,4,1,1,[],2.6666666666666665,socially_active
+144,67,67,67,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,2,2,3,3,['Religious Activities'],2.3333333333333335,socially_active
+145,67,67,67,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,2,2,3,3,['Social Connections'],2.3333333333333335,socially_active
+146,67,67,67,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,2,2,3,3,['Online Entertainment'],2.3333333333333335,socially_active
+147,67,67,67,Male,20,FAST,Undergraduate,Computer Science,3rd year,3.5-4.0,On-Campus,No,No Sports,4-6 hrs,4,5,5,3,3,2,2,3,3,[],2.3333333333333335,socially_active
+148,68,68,68,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,On-Campus,No,7+ times,4-6 hrs,4,5,5,5,4,3,4,2,3,['Social Connections'],3.0,socially_active
+149,68,68,68,Male,20,FAST,Undergraduate,Computer Science,3rd year,2.5-3.0,On-Campus,No,7+ times,4-6 hrs,4,5,5,5,4,3,4,2,3,[],3.0,socially_active
+150,69,69,69,Male,19,UOL,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,4-6 times,7-8 hrs,3,2,4,4,4,1,1,3,3,['Outdoor Activities'],1.6666666666666667,socially_active
+151,70,70,70,Male,22,UET,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,4,4,5,4,3,4,4,4,5,['Religious Activities'],4.0,socially_active
+152,71,71,71,Male,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,7+ times,7-8 hrs,4,2,3,4,2,3,3,4,3,['Religious Activities'],3.3333333333333335,socially_isoled
+153,71,71,71,Male,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,7+ times,7-8 hrs,4,2,3,4,2,3,3,4,3,['Sports and'],3.3333333333333335,socially_isoled
+154,71,71,71,Male,20,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,Off-Campus,No,7+ times,7-8 hrs,4,2,3,4,2,3,3,4,3,[],3.3333333333333335,socially_isoled
+155,72,72,72,Female,20,UET,Undergraduate,Computer Science,3rd year,3.5-4.0,Off-Campus,No,No Sports,4-6 hrs,5,4,5,4,1,4,5,5,4,['Online Entertainment'],4.666666666666667,socially_isoled
+156,73,73,73,Female,19,UET,Undergraduate,Computer Science,3rd year,3.0-3.5,On-Campus,No,No Sports,4-6 hrs,3,5,5,3,3,5,5,3,5,[],4.333333333333333,socially_active
+157,74,74,74,Male,21,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,3,2,4,1,1,2,2,['Religious Activities'],1.3333333333333333,socially_active
+158,74,74,74,Male,21,PU,Undergraduate,Data Science,1st year,3.5-4.0,Off-Campus,No,7+ times,7-8 hrs,5,3,3,2,4,1,1,2,2,['Social Connections'],1.3333333333333333,socially_active
+159,75,75,75,Male,26,KUST,Undergraduate,Data Science,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,7-8 hrs,5,5,1,5,1,5,5,3,5,['Creative Outlets'],4.333333333333333,socially_isoled
+160,75,75,75,Male,26,KUST,Undergraduate,Data Science,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,7-8 hrs,5,5,1,5,1,5,5,3,5,['Social Connections'],4.333333333333333,socially_isoled
+161,75,75,75,Male,26,KUST,Undergraduate,Data Science,4th year,3.5-4.0,Off-Campus,Yes,1-3 times,7-8 hrs,5,5,1,5,1,5,5,3,5,['Online Entertainment'],4.333333333333333,socially_isoled
+162,76,76,76,Female,19,UET,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,No Sports,4-6 hrs,3,5,5,5,3,4,3,3,4,['Social Connections'],3.3333333333333335,socially_active
+163,76,76,76,Female,19,UET,Undergraduate,Computer Science,3rd year,2.5-3.0,Off-Campus,Yes,No Sports,4-6 hrs,3,5,5,5,3,4,3,3,4,[],3.3333333333333335,socially_active
+164,77,77,77,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,No,4-6 times,4-6 hrs,5,3,3,3,4,2,2,2,4,['Social Connections'],2.0,socially_active
+165,77,77,77,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,No,4-6 times,4-6 hrs,5,3,3,3,4,2,2,2,4,['Outdoor Activities'],2.0,socially_active
+166,78,78,78,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,5,4,2,5,1,5,5,5,3,['Religious Activities'],5.0,socially_isoled
+167,78,78,78,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,5,4,2,5,1,5,5,5,3,['Sports and'],5.0,socially_isoled
+168,78,78,78,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,Yes,No Sports,4-6 hrs,5,4,2,5,1,5,5,5,3,['Online Entertainment'],5.0,socially_isoled
+169,79,79,79,Female,21,PU,Undergraduate,Information Technology,4th year,3.5-4.0,Off-Campus,Yes,No Sports,7-8 hrs,3,3,3,3,3,5,5,5,1,[],5.0,socially_active
+170,80,80,80,Female,21,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,3,4,4,3,4,4,4,2,4,['Online Entertainment'],3.3333333333333335,socially_active
+171,80,80,80,Female,21,PU,Undergraduate,Information Technology,4th year,3.0-3.5,Off-Campus,No,No Sports,7-8 hrs,3,4,4,3,4,4,4,2,4,[],3.3333333333333335,socially_active
+172,81,81,81,Male,22,PU,Undergraduate,Information Technology,4th year,2.5-3.0,Off-Campus,No,No Sports,7-8 hrs,1,2,2,1,2,2,2,5,2,['Religious Activities'],3.0,socially_isoled
+173,82,82,82,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,On-Campus,No,No Sports,7-8 hrs,4,3,1,4,4,2,3,1,2,['Online Entertainment'],2.0,socially_active
+174,82,82,82,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,On-Campus,No,No Sports,7-8 hrs,4,3,1,4,4,2,3,1,2,['Outdoor Activities'],2.0,socially_active
+175,82,82,82,Male,22,PU,Undergraduate,Information Technology,4th year,3.0-3.5,On-Campus,No,No Sports,7-8 hrs,4,3,1,4,4,2,3,1,2,[],2.0,socially_active
+176,83,83,83,Female,22,COMSATS,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,No Sports,2-4 hrs,5,5,5,5,1,5,5,5,5,['Religious Activities'],5.0,socially_isoled
+177,83,83,83,Female,22,COMSATS,Undergraduate,Software Engineering,4th year,3.5-4.0,Off-Campus,Yes,No Sports,2-4 hrs,5,5,5,5,1,5,5,5,5,[],5.0,socially_isoled
+178,84,84,84,Male,21,PU,Undergraduate,Data Science,2nd year,2.0-2.5,Off-Campus,No,No Sports,4-6 hrs,5,4,2,4,3,1,2,1,1,['Religious Activities'],1.3333333333333333,socially_active
+179,84,84,84,Male,21,PU,Undergraduate,Data Science,2nd year,2.0-2.5,Off-Campus,No,No Sports,4-6 hrs,5,4,2,4,3,1,2,1,1,['Sports and'],1.3333333333333333,socially_active
+180,84,84,84,Male,21,PU,Undergraduate,Data Science,2nd year,2.0-2.5,Off-Campus,No,No Sports,4-6 hrs,5,4,2,4,3,1,2,1,1,['Social Connections'],1.3333333333333333,socially_active
+181,84,84,84,Male,21,PU,Undergraduate,Data Science,2nd year,2.0-2.5,Off-Campus,No,No Sports,4-6 hrs,5,4,2,4,3,1,2,1,1,['Online Entertainment'],1.3333333333333333,socially_active
+182,84,84,84,Male,21,PU,Undergraduate,Data Science,2nd year,2.0-2.5,Off-Campus,No,No Sports,4-6 hrs,5,4,2,4,3,1,2,1,1,['Outdoor Activities'],1.3333333333333333,socially_active
+183,84,84,84,Male,21,PU,Undergraduate,Data Science,2nd year,2.0-2.5,Off-Campus,No,No Sports,4-6 hrs,5,4,2,4,3,1,2,1,1,[],1.3333333333333333,socially_active
+184,85,85,85,Male,22,PU,Undergraduate,Data Science,2nd year,2.5-3.0,Off-Campus,No,No Sports,4-6 hrs,3,3,3,3,2,3,4,4,5,[],3.6666666666666665,socially_isoled
+185,86,86,86,Female,19,PU,Undergraduate,Data Science,2nd year,3.5-4.0,On-Campus,No,4-6 times,4-6 hrs,4,4,4,3,4,2,2,1,3,['Sports and'],1.6666666666666667,socially_active
